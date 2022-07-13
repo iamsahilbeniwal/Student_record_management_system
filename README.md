@@ -10,7 +10,10 @@ A book shop maintains the inventory of books that are being sold at the shop. Th
 
 <img src="Assets/Bookshop_Inventory_System_Images/menu_page.png"/>
 This is the menu page where we are given five different choices and system is asking us to choose one of the five above mentioned choices provided.
+
 <img src="Assets/Bookshop_Inventory_System_Images/adding_new_book_details.png"/> 
+Say, We want to enter details of a new book then we shall choose option number 1, then system is asking us about various details about the book like author's name, title of the book, cost of the book etc...
+
 <img src="Assets/Bookshop_Inventory_System_Images/buying_a_book.png"/>
 <img src="Assets/Bookshop_Inventory_System_Images/book_search.png"/>
 
