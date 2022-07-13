@@ -20,7 +20,6 @@ int main()
     cin >> balance;
     do
     {
-        system("cls");
         rules();
         cout << "\n\nYour current balance is $ " << balance << "\n";
 // Get player's betting balance
@@ -68,7 +67,6 @@ int main()
 }
 void rules()
 {
-    system("cls");
     cout << "\t\t======CASINO NUMBER GUESSING RULES!======\n";
     cout << "\t1. Choose a number between 1 to 10\n";
     cout << "\t2. Winner gets 10 times of the money bet\n";
