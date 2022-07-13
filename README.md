@@ -8,6 +8,11 @@ A book shop maintains the inventory of books that are being sold at the shop. Th
 
 - Demo Screenshots
 
+<img src="Assets/Bookshop_Inventory_System_Images/menu_page.png"/>
+<img src="Assets/Bookshop_Inventory_System_Images/adding_new_book_details.png"/> 
+<img src="Assets/Bookshop_Inventory_System_Images/buying_a_book.png"/>
+<img src="Assets/Bookshop_Inventory_System_Images/book_search.png"/>
+
 
 
 ## Casino_Number_Guessing Game
