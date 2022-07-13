@@ -23,3 +23,5 @@ This project is about the library used for random numbers: cstdlib. In this proj
 
 
 - Demo Screenshots
+
+<img src="Assets/Guessing_Cassino_Number_Images/welcome_screen.png"/>
