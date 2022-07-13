@@ -9,7 +9,7 @@ A book shop maintains the inventory of books that are being sold at the shop. Th
 - Demo Screenshots
 
 <img src="Assets/Bookshop_Inventory_System_Images/adding_new_book_details.png"/> 
-![img](Assets/Bookshop_Inventory_System_Images/menu_page.png)
+<img src="Assets/Bookshop_Inventory_System_Images/menu_page.png"/>
 This is the menu page. Here in this page there are several options in which we can access books as well add books.
 ![img](Assets/Bookshop_Inventory_System_Images/adding_new_book_details.png)
 
