@@ -9,6 +9,7 @@ A book shop maintains the inventory of books that are being sold at the shop. Th
 - Demo Screenshots
 
 <img src="Assets/Bookshop_Inventory_System_Images/menu_page.png"/>
+This is the menu page where we are given five different choices and system is asking us to choose one of the five above mentioned choices provided.
 <img src="Assets/Bookshop_Inventory_System_Images/adding_new_book_details.png"/> 
 <img src="Assets/Bookshop_Inventory_System_Images/buying_a_book.png"/>
 <img src="Assets/Bookshop_Inventory_System_Images/book_search.png"/>
