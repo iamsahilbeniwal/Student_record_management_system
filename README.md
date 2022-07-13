@@ -37,3 +37,6 @@ This project is about the library used for random numbers: cstdlib. In this proj
 
 <img src="Assets/Guessing_Cassino_Number_Images/welcome_screen.png"/>
 Welcomes you on the system of the project and asks the name of the user.
+
+<img src="Assets/Guessing_Cassino_Number_Images/rules.png"/>
+The rules of the cassino guessing game are displayed on the screen.
