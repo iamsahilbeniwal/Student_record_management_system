@@ -10,15 +10,19 @@ A book shop maintains the inventory of books that are being sold at the shop. Th
 
 
 <img src="Assets/Bookshop_Inventory_System_Images/menu_page.png"/>
+
 This is the menu page where we are given five different choices and system is asking us to choose one of the five above mentioned choices provided.
 
 <img src="Assets/Bookshop_Inventory_System_Images/adding_new_book_details.png"/> 
+
 Say, We want to enter details of a new book then we shall choose option number 1, then system is asking us about various details about the book like author's name, title of the book, cost of the book etc...
 
 <img src="Assets/Bookshop_Inventory_System_Images/buying_a_book.png"/>
+
 If we are going for choice number 2 that says "buy a book", then the system will ask us to type the author and title of the book that we want to buy. If the particular book is founf in the record then it will ask the number of copiesof the particular that need to be bought. "Book Bought Successfully" will be shown on the screen and the total amount will also be displayed on the basis of the number of the copies bought.
 
 <img src="Assets/Bookshop_Inventory_System_Images/book_search.png"/>
+
 If we select choice number 3 that says "Search a book" is used when we want to know if a particular book is availble or not. Firstly, It will ask us to type the title as well as the author name of the book and on the basis of the details entered it will check if the required book is availble or not. If found, it will display "Book Found Successfully" and give us the various important details about the book.
 
 
