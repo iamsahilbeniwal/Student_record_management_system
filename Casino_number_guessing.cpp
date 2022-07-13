@@ -1,16 +1,16 @@
 #include <iostream>
-#include <string> // Needed to use strings
-#include <cstdlib> // Needed to use random numbers
+#include <string> 
+#include <cstdlib> 
 #include <ctime>
 using namespace std;
 void rules();
 int main()
 {
     string playerName;
-    int balance; // stores player's balance
+    int balance; 
     int bettingAmount;
     int guess;
-    int dice; // stores the random number
+    int dice; 
     char choice;
     srand(time(0)); // "Seed" the random generator
     cout << "\n\t\t========WELCOME TO CASINO WORLD=======\n\n";
