@@ -40,3 +40,6 @@ Welcomes you on the system of the project and asks the name of the user.
 
 <img src="Assets/Guessing_Cassino_Number_Images/rules.png"/>
 The rules of the cassino guessing game are displayed on the screen.
+
+<img src="Assets/Guessing_Cassino_Number_Images/guessing_and_winning.png"/>
+It shows the current balance and then it asks us to enter the amount we want to bet and then to enter any guessing number between 1 and 10. If the guessed number matches with the randomly generated number then the user wins otherwise the amount is deducted.
